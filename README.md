@@ -92,11 +92,11 @@ blittz-quiz/
 
 ## 🧩 Technologies Used
    
-  --React / Next.js 13 App Router**
-  --TypeScript**
-  --Tailwind CSS
-  --Prisma / Database
-  --Clerk / Auth**
+     React / Next.js 13 App Router**
+     TypeScript**
+     Tailwind CSS
+     Prisma / Database
+     Clerk / Auth**
 
 ---
 
